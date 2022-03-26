@@ -21,6 +21,7 @@ LLC - це Limited Liability Company. Основна фішка компанії
 
 ## Як почати?
 Я обрав одну з багатьох фірм для реестрації LLC - https://www.wyregisteredagent.net/wyoming-company/non-us-citizen 
+Пошук чи вільна назва для LLC - https://wyobiz.wyo.gov/Business/FilingSearch.aspx
 
 ## Рахунок в банку.
 На разі я знаю тільки один нео банк в Штатах що відкриває рахунки дистанційно - https://mercury.com/ (можу дати рефералку). Відкривати можна після отримання податкового номеру.
